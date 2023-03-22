@@ -1,11 +1,15 @@
-<h1 align='center'>
-  Hi there <img style="vertical-align: -30%" src="https://media.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif" width="50" height="50"> I'm Bharat 👨
+<div id="header" align="center">
+  <img src="./assets/banner2.gif"  />
+  <h1 align='center'>
+  Hi there, <img style="vertical-align: -30%" src="https://media.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif" width="50" height="50"> I'm Bharat Kumar 👨
 </h1>
+<h2>A passionate frontend developer from India  <img style="vertical-align: bottom" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" width="25"></h2>
+</div> <br>
 
-</p><img align="right" alt="Coding" width="400" src="./banner.gif" /></p>
+<p><img align="right" alt="Coding" width="400" src="./assets/banner.gif" /></p>
 
 
-<h3>A passionate frontend developer from India  <img style="vertical-align: bottom" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" width="25"></h3>
+
 
 
 [![](https://visitcount.itsvg.in/api?id=Bharat2044&icon=5&color=5)](https://visitcount.itsvg.in)
@@ -18,6 +22,8 @@
 
 - 🚀 Love to talk about **Research and Innovation!**
 
+- 📝 Checkout my [resume](./assets/bharat_resume.pdf)
+
 - 💻 Most used line of code `git commit -m "Initial Commit"`
 
 - 💪 Passionate about **`Competitive Coding`** 
@@ -27,7 +33,7 @@
 - ⚡ Fun fact - **I am Lazy but Smart**
 
 
-</br>
+<br />
 <h1 align="left">🌐 Connect With Me:</h1>
 <p align="left">
 <a href="https://linkedin.com/in/bharat2044" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bharat2044" height="60" width="80" title="Linkedin" /></a>
@@ -38,7 +44,7 @@
 <a href="https://discord.com/channels/@Bharat2044" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Bharat2044#2560" height="60" width="80" title="Discord" /></a>
 </p>
 
-</br>
+<br />
 
  <h1 align="left">💻 Coding Profile:</h1>
  <p align="left">
@@ -48,7 +54,7 @@
 <a href="https://www.hackerrank.com/bharat2044" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bharat2044" height="60" width="80" title="Hackerrank" /></a>
 </p>
 
-</br>
+<br />
 
 <h1 align="left">💻 Languages and Tools:</h1>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="80" height="80" title="C"/> </a>
@@ -69,21 +75,35 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 </p>
 
-</br>
+<br />
+
+# 📈 Activity Graph:
+<p align="center">
+<a href="https://github.com/Bharat2044/graph#gh-light-mode-only">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Bharat2044&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
+</a>
+<a href="https://github.com/Bharat2044/graph#gh-dark-mode-only">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Bharat2044&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+</a>
+</p>
+<br />
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Bharat2044&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Bharat2044&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bharat2044&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-</br>
+<br />
 
 # 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=Bharat2044&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
-</br>
+<br >
 
 ## Profile Visits:
 [![](https://visitcount.itsvg.in/api?id=Bharat2044&icon=5&color=5)](https://visitcount.itsvg.in)
 
-</br>
+<br />
+
+<h1>🤗 Thanks For Visiting</h1>
+<p><img align="center" width="600" height="500" alt="Coding"src="./assets/thanks.png" /></p>
