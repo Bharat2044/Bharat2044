@@ -1,11 +1,11 @@
-
-<h1 align="center">Hi 👋, I'm Bharat Kumar</h1>
+<h1 align='center'>
+  Hi there <img style="vertical-align: -30%" src="https://media.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif" width="50" height="50"> I'm Bharat 👨
+</h1>
 
 </p><img align="right" alt="Coding" width="400" src="./banner.gif" /></p>
 
 
-
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3>A passionate frontend developer from India  <img style="vertical-align: bottom" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" width="25"></h3>
 
 
 [![](https://visitcount.itsvg.in/api?id=Bharat2044&icon=5&color=5)](https://visitcount.itsvg.in)
@@ -16,13 +16,19 @@
 
 - 💬 Ask me about **MERN, Data Structure, C, C++, JAVA, Python**
 
-- 📫 How to reach me **bharatkumar204451@gmail.com**
+- 🚀 Love to talk about **Research and Innovation!**
+
+- 💻 Most used line of code `git commit -m "Initial Commit"`
+
+- 💪 Passionate about **`Competitive Coding`** 
+
+- 📫 How to reach me - **bharatkumar204451@gmail.com**
 
 - ⚡ Fun fact - **I am Lazy but Smart**
 
 
-<h3 align="left">Connect with me:</h3>
-
+</br>
+<h1 align="left">🌐 Connect With Me:</h1>
 <p align="left">
 <a href="https://linkedin.com/in/bharat2044" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bharat2044" height="60" width="80" title="Linkedin" /></a>
 <a href="https://twitter.com/@bharat_2044" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@bharat_2044" height="60" width="80" title="Twitter" /></a>
@@ -30,14 +36,21 @@
 <a href="https://instagram.com/bharat__2044" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bharat__2044" height="60" width="80" title="Instagram" /></a>
 <a href="https://www.facebook.com/profile.php?id=100034333355180" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bharat kumar" height="60" width="80" title="Facebook" /></a>
 <a href="https://discord.com/channels/@Bharat2044" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Bharat2044#2560" height="60" width="80" title="Discord" /></a>
+</p>
 
+</br>
+
+ <h1 align="left">💻 Coding Profile:</h1>
+ <p align="left">
 <a href="https://auth.geeksforgeeks.org/user/bharatkumar804" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="bharatkumar804" height="60" width="80" title="GeeksforGeeks" /></a>
 <a href="https://www.leetcode.com/bharat2044" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bharat2044" height="60" width="80" title="Leetcode" /></a>
 <a href="https://www.codechef.com/users/bharat_2044" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="bharat_2044" height="60" width="80" title="Codechef" /></a>
 <a href="https://www.hackerrank.com/bharat2044" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bharat2044" height="60" width="80" title="Hackerrank" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+</br>
+
+<h1 align="left">💻 Languages and Tools:</h1>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="80" height="80" title="C"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="80" height="80" title="C++"/> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="80" height="80" title="Java"/> </a>
@@ -56,11 +69,21 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 </p>
 
+</br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Bharat2044&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Bharat2044&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bharat2044&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+</br>
+
+# 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=Bharat2044&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+
+</br>
+
+## Profile Visits:
+[![](https://visitcount.itsvg.in/api?id=Bharat2044&icon=5&color=5)](https://visitcount.itsvg.in)
+
+</br>
