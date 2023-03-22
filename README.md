@@ -9,9 +9,6 @@
 <p><img align="right" alt="Coding" width="400" src="./assets/banner.gif" /></p>
 
 
-
-
-
 [![](https://visitcount.itsvg.in/api?id=Bharat2044&icon=5&color=5)](https://visitcount.itsvg.in)
 
 <p align="left"> <a href="https://twitter.com/@bharat_2044" target="blank"><img src="https://img.shields.io/twitter/follow/bharat_2044?logo=twitter&style=for-the-badge" alt="@bharat_2044" /></a> </p>
@@ -36,11 +33,11 @@
 <br />
 <h1 align="left">🌐 Connect With Me:</h1>
 <p align="left">
-<a href="https://linkedin.com/in/bharat2044" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bharat2044" height="60" width="80" title="Linkedin" /></a>
-<a href="https://twitter.com/@bharat_2044" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@bharat_2044" height="60" width="80" title="Twitter" /></a>
-<a href="https://stackoverflow.com/users/bharat2044" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="bharat2044" height="60" width="80" title="Stack Overflow" /></a>
-<a href="https://instagram.com/bharat__2044" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bharat__2044" height="60" width="80" title="Instagram" /></a>
-<a href="https://www.facebook.com/profile.php?id=100034333355180" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bharat kumar" height="60" width="80" title="Facebook" /></a>
+<a href="https://www.linkedin.com/in/bharat2044/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bharat2044" height="60" width="80" title="Linkedin" /></a>
+<a href="https://twitter.com/Bharat_2044" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@bharat_2044" height="60" width="80" title="Twitter" /></a>
+<a href="https://stackoverflow.com/users/21453213/bharat2044" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="bharat2044" height="60" width="80" title="Stack Overflow" /></a>
+<a href="https://www.instagram.com/bharat__2044/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bharat__2044" height="60" width="80" title="Instagram" /></a>
+<a href="https://www.facebook.com/profile.php?id=100034333355140" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bharat kumar" height="60" width="80" title="Facebook" /></a>
 <a href="https://discord.com/channels/@Bharat2044" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Bharat2044#2560" height="60" width="80" title="Discord" /></a>
 </p>
 
@@ -48,10 +45,10 @@
 
  <h1 align="left">💻 Coding Profile:</h1>
  <p align="left">
-<a href="https://auth.geeksforgeeks.org/user/bharatkumar804" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="bharatkumar804" height="60" width="80" title="GeeksforGeeks" /></a>
-<a href="https://www.leetcode.com/bharat2044" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bharat2044" height="60" width="80" title="Leetcode" /></a>
+<a href="https://auth.geeksforgeeks.org/user/bharatkumar404/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="bharatkumar804" height="60" width="80" title="GeeksforGeeks" /></a>
+<a href="https://leetcode.com/Bharat2044/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bharat2044" height="60" width="80" title="Leetcode" /></a>
 <a href="https://www.codechef.com/users/bharat_2044" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="bharat_2044" height="60" width="80" title="Codechef" /></a>
-<a href="https://www.hackerrank.com/bharat2044" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bharat2044" height="60" width="80" title="Hackerrank" /></a>
+<a href="https://www.hackerrank.com/Bharat2044?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bharat2044" height="60" width="80" title="Hackerrank" /></a>
 </p>
 
 <br />
