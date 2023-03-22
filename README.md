@@ -49,6 +49,7 @@
 <a href="https://leetcode.com/Bharat2044/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bharat2044" height="60" width="80" title="Leetcode" /></a>
 <a href="https://www.codechef.com/users/bharat_2044" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="bharat_2044" height="60" width="80" title="Codechef" /></a>
 <a href="https://www.hackerrank.com/Bharat2044?hr_r=1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bharat2044" height="60" width="80" title="Hackerrank" /></a>
+<a href="https://www.codingninjas.com/codestudio/profile/Bharat_2044" target="_blank"><img align="center" src="./assets/coding_ninja.jpg" alt="bharat2044" height="60" width="80" title="Code Studio" /></a>
 </p>
 
 <br />
