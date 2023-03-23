@@ -77,12 +77,9 @@
 
 # 📈 Activity Graph:
 <p align="center">
-<a href="https://github.com/Bharat2044/graph#gh-light-mode-only">
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Bharat2044&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
-</a>
-<a href="https://github.com/Bharat2044/graph#gh-dark-mode-only">
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Bharat2044&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
-</a>
+  
+[![Bharat Kumar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Bharat2044&bg_color=000000&color=ffffff&line=4c999e&point=e81717&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
 </p>
 <br />
 
