@@ -78,7 +78,7 @@
 # 📈 Activity Graph:
 <p align="center">
   
-[![Bharat Kumar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Bharat2044&bg_color=000000&color=ff0000&line=ffffff&point=59ff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Bharat Kumar github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Bharat2044&bg_color=000000&color=ffff00&line=ffffff&point=ff00d0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 </p>
 <br />
