@@ -84,9 +84,9 @@
 <br />
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Bharat2044&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Bharat2044&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bharat2044&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Bharat2044&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Bharat2044&theme=highcontrast&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bharat2044&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 <br />
 
@@ -102,3 +102,7 @@
 
 <h1>🤗 Thanks For Visiting</h1>
 <p><img align="center" width="600" height="500" alt="Coding"src="./assets/thanks.png" /></p>
+
+
+
+
