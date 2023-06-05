@@ -6,7 +6,8 @@
 <h2>A passionate frontend developer from India <img style="vertical-align: bottom" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" width="25"></h2>
 </div> <br>
 
-<p><img align="right" alt="Coding" width="400" src="./assets/banner.gif" /></p>
+<!-- <img align="right" alt="Coding" width="400" src="./assets/banner.gif" /> -->
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 [![](https://visitcount.itsvg.in/api?id=Bharat2044&icon=5&color=5)](https://visitcount.itsvg.in)
 
