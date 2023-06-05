@@ -8,7 +8,6 @@
 
 <p><img align="right" alt="Coding" width="400" src="./assets/banner.gif" /></p>
 
-
 [![](https://visitcount.itsvg.in/api?id=Bharat2044&icon=5&color=5)](https://visitcount.itsvg.in)
 
 <p align="left"> <a href="https://twitter.com/@bharat__2044" target="_blank"><img src="https://img.shields.io/twitter/follow/bharat__2044?logo=twitter&style=for-the-badge" alt="@bharat__2044" /></a> </p>
@@ -102,7 +101,3 @@
 # **🏆 GitHub Trophies:**
 ![](https://github-profile-trophy.vercel.app/?username=Bharat2044&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
-<br />
-
-# **🤗 Thanks For Visiting:**
-<p><img align="center" width="600" height="500" alt="Coding"src="./assets/thanks.png" /></p>
