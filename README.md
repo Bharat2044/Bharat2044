@@ -87,8 +87,8 @@
 # **📈 Activity Graph:**
 <p align="center">
   
-[![Bharat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bharat2044&bg_color=040606&color=0ae657&line=ec0e0e&point=e8ec04&area=true&hide_border=true)](https://github.com/Bharat2044/github-readme-activity-graph)
-  
+[![Bharat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bharat2044&bg_color=000000&color=f2f2f2&line=5dff05&point=0011ff&area=true&hide_border=true)](https://github.com/Bharat2044/github-readme-activity-graph)
+
 </p>
 <br />
 
