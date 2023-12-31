@@ -48,7 +48,7 @@
  
 <p align="left">
 <a href='https://auth.geeksforgeeks.org/user/bharatkumar404' target="_blank"><img alt='geeksforgeeks' src='https://img.shields.io/badge/GeeksforGeeks-100000?style=plastic&logo=geeksforgeeks&logoColor=12FF00&labelColor=D7D4D4&color=FFFFFF'/></a>
-<a href='href="https://www.leetcode.com/bharat2044' target="_blank"><img alt='leetCODE' src='https://img.shields.io/badge/Leetcode-100000?style=plastic&logo=leetCODE&logoColor=000000&labelColor=F09A1A&color=FFFFFF'/></a>
+<a href="https://www.leetcode.com/bharat2044" target="_blank"><img alt='leetCODE' src='https://img.shields.io/badge/Leetcode-100000?style=plastic&logo=leetCODE&logoColor=000000&labelColor=F09A1A&color=FFFFFF'/></a>
 <a href='https://www.codechef.com/users/bharat_2044' target="_blank"><img alt='codechef' src='https://img.shields.io/badge/Codechef-100000?style=plastic&logo=codechef&logoColor=6E3A1B&labelColor=D7D4D4&color=FFFFFF'/></a>
 <a href='https://www.interviewbit.com/profile/Bharat2044' target="_blank"><img alt='scaler' src='https://img.shields.io/badge/InterviewBit-100000?style=plastic&logo=scaler&logoColor=EE8B29&labelColor=D7D4D4&color=FFFFFF'/></a>
 <a href='https://codeforces.com/profile/Bharat2044' target="_blank"><img alt='codeforces' src='https://img.shields.io/badge/CodeForces-100000?style=plastic&logo=codeforces&logoColor=EE8B29&labelColor=D7D4D4&color=FFFFFF'/></a>
