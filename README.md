@@ -15,9 +15,9 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **MERN, Data Structure, C, C++, JAVA, Python**
+- 💬 Ask me about **`Data Structure, MERN, JAVA, JDBC, C, C++, Python`**
 
-- 🚀 Love to talk about **Research and Innovation!**
+- 🚀 Love to talk about **`Research and Innovation!`**
 
 - 📝 Checkout my [resume](./assets/bharat_resume.pdf)
 
@@ -27,7 +27,7 @@
 
 - 📫 How to reach me - **bharatkumar204451@gmail.com**
 
-- ⚡ Fun fact - **I am Lazy but Smart**
+- ⚡ Fun fact - **`I am Lazy but Smart`**
 
 
 <br />
@@ -36,6 +36,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharat2044/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/bharat__2044) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21453213/bharat2044)
+<a href='https://hashnode.com/@Bharat2044' target="_blank"><img alt='hashnode' src='https://img.shields.io/badge/Hashnode-100000?style=plastic&logo=hashnode&logoColor=1D1AF1&labelColor=FFFFFF&color=FFFFFF'/></a>
+<a href='https://medium.com/@Bharat2044' target="_blank"><img alt='Medium' src='https://img.shields.io/badge/Medium-100000?style=plastic&logo=Medium&logoColor=000000&labelColor=475AC7&color=475AC7'/></a>
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/@Bharat2044) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/bharat__2044) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100034333355140)
