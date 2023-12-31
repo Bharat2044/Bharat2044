@@ -46,12 +46,14 @@
 
  # **💻 Coding Profile:**
  
- <p align="left">
-<a href="https://auth.geeksforgeeks.org/user/bharatkumar404/" target="_blank"><img align="center" src="./assets/gfg.png" alt="GFG - bharatkumar404" height="80" width="190" title="GeeksforGeeks" /></a>
-<a href="https://leetcode.com/Bharat2044/" target="_blank"><img align="center" src="./assets/leetcode.png" alt="Leetcode - Bharat2044" height="80" width="190" title="Leetcode" /></a>
-<a href="https://www.codechef.com/users/bharat_2044" target="_blank"><img align="center" src="./assets/codechef.jpg" alt="Codechef - bharat_2044" height="80" width="190" title="Codechef" /></a>
-<a href="https://www.hackerrank.com/Bharat2044?hr_r=1" target="_blank"><img align="center" src="./assets/hackerrank.png" height="80" width="190" alt="Hacker Rank - bharat2044" title="Hackerrank" /></a>
-<a href="https://www.codingninjas.com/codestudio/profile/Bharat_2044" target="_blank"><img align="center" src="./assets/codingninja.png" alt="Code Studio - bharat2044"  height="80" width="190"  title="Code Studio" /></a>
+<p align="left">
+<a href='https://auth.geeksforgeeks.org/user/bharatkumar404' target="_blank"><img alt='geeksforgeeks' src='https://img.shields.io/badge/GeeksforGeeks-100000?style=plastic&logo=geeksforgeeks&logoColor=12FF00&labelColor=D7D4D4&color=FFFFFF'/></a>
+<a href='href="https://www.leetcode.com/bharat2044' target="_blank"><img alt='leetCODE' src='https://img.shields.io/badge/Leetcode-100000?style=plastic&logo=leetCODE&logoColor=000000&labelColor=F09A1A&color=FFFFFF'/></a>
+<a href='https://www.codechef.com/users/bharat_2044' target="_blank"><img alt='codechef' src='https://img.shields.io/badge/Codechef-100000?style=plastic&logo=codechef&logoColor=6E3A1B&labelColor=D7D4D4&color=FFFFFF'/></a>
+<a href='https://www.interviewbit.com/profile/Bharat2044' target="_blank"><img alt='scaler' src='https://img.shields.io/badge/InterviewBit-100000?style=plastic&logo=scaler&logoColor=EE8B29&labelColor=D7D4D4&color=FFFFFF'/></a>
+<a href='https://codeforces.com/profile/Bharat2044' target="_blank"><img alt='codeforces' src='https://img.shields.io/badge/CodeForces-100000?style=plastic&logo=codeforces&logoColor=EE8B29&labelColor=D7D4D4&color=FFFFFF'/></a>
+<a href='https://www.hackerrank.com/bharat2044' target="_blank"><img alt='hackerrank' src='https://img.shields.io/badge/HackerRank-100000?style=plastic&logo=hackerrank&logoColor=2EC866&labelColor=D7D4D4&color=FFFFFF'/></a>
+<a href='https://www.codingninjas.com/codestudio/profile/Bharat_2044' target="_blank"><img alt='codingninjas' src='https://img.shields.io/badge/Coding_Ninjas-100000?style=plastic&logo=codingninjas&logoColor=EE8B29&labelColor=D7D4D4&color=FFFFFF'/></a>
 </p>
 
 <br />
