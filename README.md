@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://twitter.com/@bharat__2044" target="_blank"><img src="https://img.shields.io/twitter/follow/bharat__2044?logo=twitter&style=for-the-badge" alt="@bharat__2044" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Java**
+- 🌱 I’m currently learning **`Full Stack Java`**
 
 - 💬 Ask me about **`Data Structure, MERN, JAVA, JDBC, C, C++, Python`**
 
