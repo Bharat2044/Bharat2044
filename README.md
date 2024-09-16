@@ -1,9 +1,12 @@
+
 <div id="header" align="center">
   <img src="./assets/banner2.gif"  />
   <h1 align='center'>
   Hi there, <img style="vertical-align: -30%" src="https://media.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif" width="50" height="50"> I'm Bharat Kumar 👨
 </h1>
+  <!--
 <h2>A passionate frontend developer from India <img style="vertical-align: bottom" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" width="25"></h2>
+-->
 </div> <br>
 
 <!-- <img align="right" alt="Coding" width="400" src="./assets/banner.gif" /> -->
@@ -13,7 +16,7 @@
 
 <p align="left"> <a href="https://twitter.com/@bharat__2044" target="_blank"><img src="https://img.shields.io/twitter/follow/bharat__2044?logo=twitter&style=for-the-badge" alt="@bharat__2044" /></a> </p>
 
-- 🌱 I’m currently learning **`Full Stack Java`**
+- 🌱 I’m currently learning **`Full Stack Development & Devops`**
 
 - 💬 Ask me about **`Data Structure, MERN, JAVA, JDBC, C, C++, Python`**
 
@@ -26,8 +29,9 @@
 - 💪 Passionate about **`Competitive Coding`** 
 
 - 📫 How to reach me - **bharatkumar204451@gmail.com**
-
+<!--
 - ⚡ Fun fact - **`I am Lazy but Smart`**
+-->
 
 
 <br />
@@ -105,12 +109,14 @@
 
 <br />
 
+<!--
 # **📈 Activity Graph:**
 <p align="center">
   
 [![Bharat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bharat2044&bg_color=000000&color=f2f2f2&line=5dff05&point=0011ff&area=true&hide_border=true)](https://github.com/Bharat2044/github-readme-activity-graph)
 
 </p>
+-->
 <br />
 
 # **📊 GitHub Stats:**
@@ -119,7 +125,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Bharat2044&theme=highcontrast&hide_border=true)
 
 <br />
-
+<!--
 # **🏆 GitHub Trophies:**
 ![](https://github-profile-trophy.vercel.app/?username=Bharat2044&theme=discord&no-frame=false&no-bg=true&margin-w=4)
-
+-->
