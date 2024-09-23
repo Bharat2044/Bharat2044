@@ -1,4 +1,5 @@
-<p align="center">
+<div align="center">
+  <p align="center">
   <img src="./assets/header.png" alt="Banner Image" width="100%"/>
 </p>
 <h1 align='center'>
@@ -8,6 +9,7 @@
   
   [![](https://visitcount.itsvg.in/api?id=Bharat2044&icon=5&color=5)](https://visitcount.itsvg.in)
 </p>
+</div>
 
 🏫 I’m currently learning **MERN Full Stack Development & Devops**
 
@@ -21,7 +23,6 @@
 
 📫 How to reach me - **bharatkumar204451@gmail.com**
 
----
 
 ## **🌐 Connect With Me:**
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/bharat__2044) 
@@ -34,21 +35,11 @@
 <a href='https://www.codechef.com/users/bharat_2044' target="_blank"><img alt='codechef' src='https://img.shields.io/badge/Codechef-100000?style=plastic&logo=codechef&logoColor=6E3A1B&labelColor=D7D4D4&color=FFFFFF'/></a>
 <a href='https://www.interviewbit.com/profile/Bharat2044' target="_blank"><img alt='scaler' src='https://img.shields.io/badge/InterviewBit-100000?style=plastic&logo=scaler&logoColor=EE8B29&labelColor=D7D4D4&color=FFFFFF'/></a>
 <a href='https://codeforces.com/profile/Bharat2044' target="_blank"><img alt='codeforces' src='https://img.shields.io/badge/CodeForces-100000?style=plastic&logo=codeforces&logoColor=EE8B29&labelColor=D7D4D4&color=FFFFFF'/></a>
-<a href='https://www.hackerrank.com/bharat2044' target="_blank"><img alt='hackerrank' src='https://img.shields.io/badge/HackerRank-100000?style=plastic&logo=hackerrank&logoColor=2EC866&labelColor=D7D4D4&color=FFFFFF'/></a>
 
----
 
 ## **📊 GitHub Stats:**
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bharat2044&theme=radical" alt="GitHub Streak" width="450"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharat2044&layout=compact&theme=radical" alt="Top Languages" width="400"/>
-    </td>
-  </tr>
-</table>
+![](https://github-readme-stats.vercel.app/api?username=Bharat2044&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bharat2044&theme=highcontrast&include_all_commits=false&count_private=true&layout=compact)
 
 
 <!--
