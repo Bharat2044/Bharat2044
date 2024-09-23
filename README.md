@@ -1,18 +1,65 @@
-
-<div id="header" align="center">
-  <img src="./assets/banner2.gif"  />
-  <h1 align='center'>
-  Hi there, <img style="vertical-align: -30%" src="https://media.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif" width="50" height="50"> I'm Bharat Kumar 👨
+<p align="center">
+  <img src="./assets/header.png" alt="Banner Image" width="100%"/>
+</p>
+<h1 align='center'>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F00F7&random=false&width=535&lines=%E2%9C%A8+Hi%2C+I'm+Bharat.+You+are+Welcome!+%F0%9F%8C%9F" alt="Typing SVG" />
 </h1>
+<p align="center">
+  
+  [![](https://visitcount.itsvg.in/api?id=Bharat2044&icon=5&color=5)](https://visitcount.itsvg.in)
+</p>
+
+🏫 I’m currently learning **MERN Full Stack Development & Devops**
+
+💬 Ask me about **Frontend Development, MERN & JAVA Full Stack Development, Data Structure and Algorithm**
+
+🔎 I’m actively looking to collaborate on **Open source Project**
+
+💗 Love to talk about **Research and Innovation!**
+
+💪 Passionate about **Competitive Coding** 
+
+📫 How to reach me - **bharatkumar204451@gmail.com**
+
+---
+
+## **🌐 Connect With Me:**
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/bharat__2044) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharat2044/)
+<a href='https://medium.com/@Bharat2044' target="_blank"><img alt='Medium' src='https://img.shields.io/badge/Medium-100000?style=plastic&logo=Medium&logoColor=000000&labelColor=475AC7&color=475AC7'/></a>
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21453213/bharat2044)
+<a href='https://hashnode.com/@Bharat2044' target="_blank"><img alt='hashnode' src='https://img.shields.io/badge/Hashnode-100000?style=plastic&logo=hashnode&logoColor=1D1AF1&labelColor=FFFFFF&color=FFFFFF'/></a>
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/@Bharat2044) 
+<a href="https://www.leetcode.com/bharat2044" target="_blank"><img alt='leetCODE' src='https://img.shields.io/badge/Leetcode-100000?style=plastic&logo=leetCODE&logoColor=000000&labelColor=F09A1A&color=FFFFFF'/></a>
+<a href='https://www.codechef.com/users/bharat_2044' target="_blank"><img alt='codechef' src='https://img.shields.io/badge/Codechef-100000?style=plastic&logo=codechef&logoColor=6E3A1B&labelColor=D7D4D4&color=FFFFFF'/></a>
+<a href='https://www.interviewbit.com/profile/Bharat2044' target="_blank"><img alt='scaler' src='https://img.shields.io/badge/InterviewBit-100000?style=plastic&logo=scaler&logoColor=EE8B29&labelColor=D7D4D4&color=FFFFFF'/></a>
+<a href='https://codeforces.com/profile/Bharat2044' target="_blank"><img alt='codeforces' src='https://img.shields.io/badge/CodeForces-100000?style=plastic&logo=codeforces&logoColor=EE8B29&labelColor=D7D4D4&color=FFFFFF'/></a>
+<a href='https://www.hackerrank.com/bharat2044' target="_blank"><img alt='hackerrank' src='https://img.shields.io/badge/HackerRank-100000?style=plastic&logo=hackerrank&logoColor=2EC866&labelColor=D7D4D4&color=FFFFFF'/></a>
+
+---
+
+## **📊 GitHub Stats:**
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bharat2044&theme=radical" alt="GitHub Streak" width="450"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharat2044&layout=compact&theme=radical" alt="Top Languages" width="400"/>
+    </td>
+  </tr>
+</table>
+
+
+<!--
+<!-- <h1 align='center'>
+  Hi there, <img style="vertical-align: -30%" src="https://media.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif" width="50" height="50"> I'm Bharat Kumar
+</h1> -->
   <!--
 <h2>A passionate frontend developer from India <img style="vertical-align: bottom" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" width="25"></h2>
--->
-</div> <br>
 
-<!-- <img align="right" alt="Coding" width="400" src="./assets/banner.gif" /> -->
+<img align="right" alt="Coding" width="400" src="./assets/banner.gif" /> 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-[![](https://visitcount.itsvg.in/api?id=Bharat2044&icon=5&color=5)](https://visitcount.itsvg.in)
 
 <p align="left"> <a href="https://twitter.com/@bharat__2044" target="_blank"><img src="https://img.shields.io/twitter/follow/bharat__2044?logo=twitter&style=for-the-badge" alt="@bharat__2044" /></a> </p>
 
@@ -26,25 +73,7 @@
 
 - 💻 Most used line of code `git commit -m "Initial Commit"`
 
-- 💪 Passionate about **`Competitive Coding`** 
-
-- 📫 How to reach me - **bharatkumar204451@gmail.com**
-<!--
 - ⚡ Fun fact - **`I am Lazy but Smart`**
--->
-
-
-<br />
-
-# **🌐 Connect With Me:**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharat2044/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/bharat__2044) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21453213/bharat2044)
-<a href='https://hashnode.com/@Bharat2044' target="_blank"><img alt='hashnode' src='https://img.shields.io/badge/Hashnode-100000?style=plastic&logo=hashnode&logoColor=1D1AF1&labelColor=FFFFFF&color=FFFFFF'/></a>
-<a href='https://medium.com/@Bharat2044' target="_blank"><img alt='Medium' src='https://img.shields.io/badge/Medium-100000?style=plastic&logo=Medium&logoColor=000000&labelColor=475AC7&color=475AC7'/></a>
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/@Bharat2044) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/bharat__2044) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100034333355140)
 
 <br />
 
@@ -58,7 +87,7 @@
 <a href='https://codeforces.com/profile/Bharat2044' target="_blank"><img alt='codeforces' src='https://img.shields.io/badge/CodeForces-100000?style=plastic&logo=codeforces&logoColor=EE8B29&labelColor=D7D4D4&color=FFFFFF'/></a>
 <a href='https://www.hackerrank.com/bharat2044' target="_blank"><img alt='hackerrank' src='https://img.shields.io/badge/HackerRank-100000?style=plastic&logo=hackerrank&logoColor=2EC866&labelColor=D7D4D4&color=FFFFFF'/></a>
 <a href='https://www.codingninjas.com/codestudio/profile/Bharat_2044' target="_blank"><img alt='codingninjas' src='https://img.shields.io/badge/Coding_Ninjas-100000?style=plastic&logo=codingninjas&logoColor=EE8B29&labelColor=D7D4D4&color=FFFFFF'/></a>
-</p>
+<!-- </p>
 
 <br />
 
@@ -67,8 +96,6 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-
-
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
@@ -78,20 +105,15 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-
-
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![Reduxt](	https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) 
 ![SpringBoot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-
-  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" title="Git"/> </a> 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
@@ -107,25 +129,20 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 </p>
 
-<br />
+<br /> 
 
-<!--
 # **📈 Activity Graph:**
 <p align="center">
   
 [![Bharat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bharat2044&bg_color=000000&color=f2f2f2&line=5dff05&point=0011ff&area=true&hide_border=true)](https://github.com/Bharat2044/github-readme-activity-graph)
-
 </p>
--->
-<br />
 
-# **📊 GitHub Stats:**
+
 ![](https://github-readme-stats.vercel.app/api?username=Bharat2044&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bharat2044&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=true&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Bharat2044&theme=highcontrast&hide_border=true)
 
-<br />
-<!--
 # **🏆 GitHub Trophies:**
 ![](https://github-profile-trophy.vercel.app/?username=Bharat2044&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 -->
+
