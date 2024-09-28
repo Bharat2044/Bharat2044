@@ -40,9 +40,9 @@
 ## **📊 GitHub Stats:**
 ![](https://github-readme-stats.vercel.app/api?username=Bharat2044&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bharat2044&theme=highcontrast&include_all_commits=false&count_private=true&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Bharat2044&theme=highcontrast&hide_border=false)
 
 <!--
+![](https://github-readme-streak-stats.herokuapp.com/?user=Bharat2044&theme=highcontrast&hide_border=false)
 <!-- <h1 align='center'>
   Hi there, <img style="vertical-align: -30%" src="https://media.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif" width="50" height="50"> I'm Bharat Kumar
 </h1> -->
