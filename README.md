@@ -11,7 +11,7 @@
 </p>
 </div>
 
-🏫 I’m currently learning **MERN Full Stack Development & Devops**
+🏫 I’m currently learning **Devops and Cloud**
 
 💬 Ask me about **Frontend Development, MERN & JAVA Full Stack Development, Data Structure and Algorithm**
 
